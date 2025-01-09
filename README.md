@@ -2,7 +2,6 @@
 
 ARGOMENTI
 --------
-
 INTRO
 - presentazione
 - informatica e trattamento dei dati: cosa è l'informatica	
@@ -21,11 +20,13 @@ CONCETTI
 - opensource o closesource
 - il testing: testare processi, applicazioni, sviluppare testando. sperimentazione, proof of concept e test di unità
 - concetti di ricorsione e iterazione
+- analogico vs digitale
 
 SICUREZZA
 - aggiornamenti si o no: l'impatto su una postazione di lavoro
 - sicurezza e hacking
 - backup e protezione dei dati
+- phishing e importanza dei dati personali 
 
 METODI DI PROGRAMMAZIONE
 - ciclo di vita del software
