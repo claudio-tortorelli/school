@@ -7,13 +7,14 @@ INTRO
 - informatica e trattamento dei dati: cosa è l'informatica	
 - campi applicativi dell'informatica, classici e nuovi
 
-TECNOLOGIE
+TECNOLOGIE E LORO EFFETTI
 - tecnologia trasparente ed opaca
 - interfaccia utente, usabilità e semplificazione
 - intelligenza artificiale - intro alle conseguenze https://www.hwupgrade.it/news/scienza-tecnologia/l-intelligenza-artificiale-minaccia-la-sua-stessa-sopravvivenza-il-problema-del-cannibalismo-digitale_130173.html
 - il web
 - gli smartphone 
-- i social social 
+- i social antisocial
+- La bolla social 
 
 CONCETTI
 - la macchina di von neumann
