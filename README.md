@@ -14,7 +14,8 @@ TECNOLOGIE E LORO EFFETTI
 - il web
 - gli smartphone 
 - i social antisocial
-- La bolla social 
+- La bolla social
+- https://www.hwupgrade.it/news/web/i-guru-del-mondo-della-tecnologia-prima-erano-i-buoni-ora-sono-cattivi-cosa-cambiato_134612-10.html#commenti
 
 CONCETTI
 - la macchina di von neumann
