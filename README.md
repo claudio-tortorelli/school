@@ -36,7 +36,7 @@ ARGOMENTI
 - lavorare da soli e in team, procedimento waterfall e agile
 - utilizzo di risorse e conoscenze, ricerca sul web, supporto dell'AI
 - la chiarezza del codice, l'indentazione, i commenti e gli stili di coding
-- come farsi domane e darsi delle risposte: qualità delle domande e delle risposte. 
+- come farsi domane e darsi delle risposte: qualità delle domande e delle risposte. (1)
 - esempi pratici di programmazione con Jack il topo robot 
 
 ## ARTICOLI
@@ -44,12 +44,12 @@ ARGOMENTI
 - https://www.hwupgrade.it/news/web/i-guru-del-mondo-della-tecnologia-prima-erano-i-buoni-ora-sono-cattivi-cosa-cambiato_134612-10.html#commenti
 - https://geosmartmagazine.it/categoria/etica-e-innovazione/
 
-Domande e risposte...
-	livello 0 felice: nessuna domanda 
-	livello 1 ingenuo: domande sbagliate e risposte sbagliate
-	livello 2 pigro: domande giuste e nessuna risposta
-	livello 3 saccente: domande giuste e risposte errate
-	livello 4 junior: domande giuste e risposte giuste -> facile ricadere a livello 0
-	livello 5 senior: domande giuste, condivisione e risposte giuste
+(1) Domande e risposte...
+- livello 0 "felice": nessuna domanda 
+- livello 1 "ingenuo": domande sbagliate e risposte sbagliate
+- livello 2 "pigro": domande giuste e nessuna risposta
+- livello 3 "saccente": domande giuste e risposte errate
+- livello 4 "junior": domande giuste e risposte giuste (facile ricadere a livello 0)
+- livello 5 "senior": domande giuste, condivisione e risposte giuste
 
 
