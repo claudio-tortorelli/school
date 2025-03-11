@@ -45,7 +45,9 @@ La prima ad aver lasciato degli scritti relativi alla programmazione di una macc
 
 ## Jack il topo robot esegue un algoritmo per arrivare al formaggio
 Vedremo come Jack può essere programmato tramite un linguaggio che può eseguire.
-Eseguendo l'algoritmo programmato Jack dovrà provare ad arrivare al formaggio...evitando i nemici.
+Eseguendo l'algoritmo programmato Jack proverà arrivare al formaggio...evitando i nemici.
+
+![Jack_mouse}(images/jack.jpg)
 
 # Riferimenti
 - https://it.wikipedia.org/wiki/Informatica
