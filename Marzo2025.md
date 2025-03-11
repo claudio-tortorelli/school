@@ -47,7 +47,7 @@ La prima ad aver lasciato degli scritti relativi alla programmazione di una macc
 Vedremo come Jack può essere programmato tramite un linguaggio che può eseguire.
 Eseguendo l'algoritmo programmato Jack proverà arrivare al formaggio...evitando i nemici.
 
-![Jack_mouse}(images/jack.jpg)
+![Jack_mouse}(images/jack.jpeg)
 
 # Riferimenti
 - https://it.wikipedia.org/wiki/Informatica
