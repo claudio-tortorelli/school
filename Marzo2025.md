@@ -18,7 +18,7 @@ I dati
 - si conservano 
 - si condividono (pubblicano)
 - si proteggono
-- si organizzano- 
+- si organizzano
 - si combinano (arricchiscono)
 - si rappresentano
 - ...
